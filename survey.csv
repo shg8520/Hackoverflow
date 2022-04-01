@@ -1,0 +1,40 @@
+Timestamp,Gender,Age,How active is your work?,How is your fitness level,Working Hour Per Day,Do you exercise daily? ,How many hours in a day you do any physical activities?,Do you follow any diet plans?,How many hours a day do you sleep?,How often do you spend with fam and friends?,How many hours do you spend for entertainment?,Does using social media affect your mental health,How often are you stressed?,How much as your mental health been affected in pandemic?
+4/1/2022 11:56:17,Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,5-8,No,None,No,4-6,Moderate,2-4,Yes,Mostly,Sometimes Fluctuations
+4/1/2022 11:57:15,Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,2-4,No,4-6,Moderate,2-4,Yes,Mostly,Unstable
+4/1/2022 11:57:28,Male,36-50,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,2-4,Yes,6-8,More,5-8,Maybe,Sometimes,Stable
+4/1/2022 11:59:12,Female,21-35,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,5-8,Yes,5-6,Yes,8-above,Moderate,2-4,No,Never,Stable
+4/1/2022 12:01:01,Male,15-20,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,2-4,Yes,5-6,No,4-6,Less,8-above,Yes,Mostly,Unstable
+4/1/2022 12:02:43,Female,36-50,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,9-Above,No,None,Maybe,6-8,More,5-8,No,Mostly,Sometimes Fluctuations
+4/1/2022 12:03:01,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,5-8,No,None,Yes,6-8,More,5-8,Yes,Mostly,Unstable
+4/1/2022 12:04:09,Male,50-Above,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,No,5-6,No,4-6,Moderate,8-above,Maybe,Sometimes,Sometimes Fluctuations
+4/1/2022 12:05:16,Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,2-4,No,2-4,No,4-6,Moderate,2-4,Yes,Sometimes,Stable
+4/1/2022 12:06:09,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",High Fit,5-8,No,2-4,No,1-3,Moderate,2-4,No,Sometimes,Sometimes Fluctuations
+4/1/2022 12:06:35,Female,15-20,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,2-4,No,2-4,Yes,1-3,Less,2-4,Yes,Sometimes,Sometimes Fluctuations
+4/1/2022 12:06:44,Other,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,2-4,No,1-3,More,2-4,Maybe,Never,Stable
+4/1/2022 12:07:24,Male,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,9-Above,No,None,Yes,4-6,Moderate,2-4,No,Mostly,Sometimes Fluctuations
+4/1/2022 12:07:35,Male,36-50,"Moderately Active (Eg: Tour Guide,Waiter)",Average Fit,5-8,Yes,5-6,Yes,6-8,Less,2-4,Yes,Mostly,Stable
+4/1/2022 12:08:31,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,None,Maybe,6-8,Less,5-8,No,Mostly,Unstable
+4/1/2022 12:09:19,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,2-4,Yes,2-4,No,6-8,Moderate,2-4,No,Sometimes,Unstable
+4/1/2022 12:09:29,Female,21-35,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,5-8,Yes,5-6,No,6-8,More,2-4,Maybe,Sometimes,Unstable
+4/1/2022 12:09:31,Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,5-6,Yes,6-8,Moderate,2-4,No,Never,Sometimes Fluctuations
+4/1/2022 12:10:02,Male,36-50,"Moderately Active (Eg: Tour Guide,Waiter)",Average Fit,5-8,No,5-6,No,6-8,Moderate,8-above,Yes,Mostly,Sometimes Fluctuations
+4/1/2022 12:10:24,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,9-Above,No,None,No,6-8,Less,2-4,Yes,Sometimes,Unstable
+4/1/2022 12:10:39,Male,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,No,5-6,No,6-8,Moderate,8-above,No,Never,Stable
+4/1/2022 12:10:42,Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,Yes,2-4,No,6-8,More,2-4,No,Never,Stable
+4/1/2022 12:11:13,Female,36-50,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,5-8,Yes,5-6,Yes,6-8,Moderate,5-8,Maybe,Sometimes,Sometimes Fluctuations
+4/1/2022 12:11:44,Female,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,None,No,4-6,Moderate,2-4,No,Mostly,Sometimes Fluctuations
+4/1/2022 12:11:49,Female,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,No,5-6,No,6-8,Moderate,5-8,Maybe,Never,Sometimes Fluctuations
+4/1/2022 12:13:01,Female,15-20,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,No,5-6,No,6-8,Moderate,2-4,No,Sometimes,Stable
+4/1/2022 12:13:34,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,Yes,2-4,No,6-8,Moderate,2-4,No,Sometimes,Stable
+4/1/2022 12:13:14,Male,36-50,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,No,None,No,6-8,Moderate,5-8,Maybe,Mostly,Unstable
+4/1/2022 12:13:49,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,None,No,4-6,Less,2-4,No,Mostly,Sometimes Fluctuations
+4/1/2022 12:13:51,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,9-Above,No,None,No,6-8,Less,2-4,No,Sometimes,Sometimes Fluctuations
+4/1/2022 12:14:05,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,5-6,Maybe,6-8,Moderate,5-8,Yes,Mostly,Stable
+4/1/2022 12:14:38,Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,No,None,No,4-6,Less,2-4,Yes,Mostly,Unstable
+4/1/2022 12:14:38,Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,2-4,No,6-8,Moderate,2-4,Maybe,Sometimes,Sometimes Fluctuations
+4/1/2022 12:14:54,Other,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",High Fit,2-4,Yes,2-4,Maybe,6-8,More,2-4,No,Sometimes,Stable
+4/1/2022 12:14:54,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,Yes,2-4,No,6-8,Moderate,2-4,No,Sometimes,Unstable
+4/1/2022 12:15:44,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,None,No,6-8,Less,2-4,No,Mostly,Sometimes Fluctuations
+4/1/2022 12:16:10,Male,21-35,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,5-8,Yes,5-6,Yes,6-8,More,2-4,No,Never,Stable
+4/1/2022 12:16:25,Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,No,None,Maybe,6-8,Moderate,2-4,Maybe,Sometimes,Sometimes Fluctuations
+4/1/2022 12:16:39,Other,50-Above,"Moderately Active (Eg: Tour Guide,Waiter)",Low Fit,5-8,No,5-6,Yes,4-6,Moderate,5-8,No,Mostly,Unstable
