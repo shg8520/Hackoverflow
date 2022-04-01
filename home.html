@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    Homepage
+    <form action="{% url 'result' %}">
+
+      {% csrf_token %}
+      Gender:
+      <input type="radio" id="Male" name="Gender" value="Male">
+      <label for="Male">Male</label><br>
+      <input type="radio" id="Female" name="Gender" value="Female">
+      <label for="Female">Female</label><br>
+      <input type="radio" id="Other" name="Gender" value="Other">
+      <label for="Other">Other</label><br>
+      Age:
+      <input type="radio" id="15-20" name="Age" value="15-20">
+      <label for="15-20">15-20</label><br>
+      <input type="radio" id="21-35" name="Age" value="21-35">
+      <label for="21-35">21-35</label><br>
+      <input type="radio" id="36-50" name="Age" value="36-50">
+      <label for="36-50">36-50</label><br>
+      <input type="radio" id="50-Above" name="Age" value="50-Above">
+      <label for="50-Above">50-Above</label><br>
+      How active is your work?
+      <input type="radio" id="Little / No activity (Eg: Desk Job, Bank Job)" name="Activity" value="Little / No activity (Eg: Desk Job, Bank Job)">
+      <label for="Little / No activity (Eg: Desk Job, Bank Job)">Little / No activity (Eg: Desk Job, Bank Job)</label><br>
+      <input type="radio" id="Lightly Active (Eg: Student, Sales Associate, Teacher)" name="Activity" value="Lightly Active (Eg: Student, Sales Associate, Teacher)">
+      <label for="Lightly Active (Eg: Student, Sales Associate, Teacher)">Lightly Active (Eg: Student, Sales Associate, Teacher)</label><br>
+      <input type="radio" id="Moderately Active (Eg: Tour Guide,Waiter)" name="Activity" value="Moderately Active (Eg: Tour Guide,Waiter)">
+      <label for="Moderately Active (Eg: Tour Guide,Waiter)">Moderately Active (Eg: Tour Guide,Waiter)</label><br>
+      <input type="radio" id="Very Active (Eg: Gym Instructor, Construction Worker)" name="Activity" value="Very Active (Eg: Gym Instructor, Construction Worker)">
+      <label for="Very Active (Eg: Gym Instructor, Construction Worker)">Very Active (Eg: Gym Instructor, Construction Worker)</label><br>
+      How is your fitness level?
+      <input type="radio" id="Low Fit" name="Fitness level" value="Low Fit">
+      <label for="Low Fit">Low Fit</label><br>
+      <input type="radio" id="Average Fit" name="Fitness level" value="Average Fit">
+      <label for="Average Fit">Average Fit</label><br>
+      <input type="radio" id="High Fit" name="Fitness level" value="High Fit">
+      <label for="High Fit">High Fit</label><br>
+      Working Hour Per Day:
+      <input type="radio" id="Low Fit" name="whpd" value="Low Fit">
+      <label for="Low Fit">Low Fit</label><br>
+      <input type="radio" id="Average Fit" name="whpd" value="Average Fit">
+      <label for="Average Fit">Average Fit</label><br>
+      <input type="radio" id="High Fit" name="whpd" value="High Fit">
+      <label for="High Fit">High Fit</label><br>
+      Do you exercise daily?
+      <input type="radio" id="Yes" name="exdaily" value="Yes">
+      <label for="Yes">Yes</label><br>
+      <input type="radio" id="No" name="exdaily" value="No">
+      <label for="No">No</label><br>
+      How many hours in a day you do any physical activities?
+      <input type="radio" id="2-4" name="papd" value="2-4">
+      <label for="2-4">2-4</label><br>
+      <input type="radio" id="5-6" name="papd" value="5-6">
+      <label for="5-6">5-6</label><br>
+      <input type="radio" id="None" name="papd" value="None">
+      <label for="None">None</label><br>
+      Do you follow any diet plans?
+      <input type="radio" id="Yes" name="diet plans" value="Yes">
+      <label for="Yes">Yes</label><br>
+      <input type="radio" id="No" name="diet plans" value="No">
+      <label for="No">No</label><br>
+      <input type="radio" id="Maybe" name="diet plans" value="Maybe">
+      <label for="Maybe">Maybe</label><br>
+      How many hours a day do you sleep?
+      <input type="radio" id="1-3" name="sleep" value="1-3">
+      <label for="1-3">1-3</label><br>
+      <input type="radio" id="4-6" name="sleep" value="4-6">
+      <label for="4-6">4-6</label><br>
+      <input type="radio" id="6-8" name="sleep" value="6-8">
+      <label for="6-8">6-8</label><br>
+      <input type="radio" id="8-above" name="sleep" value="8-above">
+      <label for="8-above">8-above</label><br>
+      How often do you spend with fam and friends?
+      <input type="radio" id="Less" name="famfr" value="Less">
+      <label for="Less">Less</label><br>
+      <input type="radio" id="Moderate" name="famfr" value="Moderate">
+      <label for="Moderate">Moderate</label><br>
+      <input type="radio" id="More" name="famfr" value="More">
+      <label for="More">More</label><br>
+      How many hours do you spend for entertainment?
+      <input type="radio" id="2-4" name="ent" value="2-4">
+      <label for="2-4">2-4</label><br>
+      <input type="radio" id="5-8" name="ent" value="5-8">
+      <label for="5-8">5-8</label><br>
+      <input type="radio" id="8-above" name="ent" value="8-above">
+      <label for="8-above">8-above</label><br>
+      Does using social media affect your mental health?
+      <input type="radio" id="Yes" name="socmed" value="Yes">
+      <label for="Yes">Yes</label><br>
+      <input type="radio" id="No" name="socmed" value="No">
+      <label for="No">No</label><br>
+      <input type="radio" id="Maybe" name="socmed" value="Maybe">
+      <label for="Maybe">Maybe</label><br>
+      How often are you stressed?
+      <input type="radio" id="Sometimes" name="stress" value="Sometimes">
+      <label for="Sometimes">Sometimes</label><br>
+      <input type="radio" id="Mostly" name="stress" value="Mostly">
+      <label for="Mostly">Mostly</label><br>
+      <input type="radio" id="Never" name="stress" value="Never">
+      <label for="Never">Never</label><br>
+      How much your mental health has been affected in pandemic?
+      <input type="radio" id="Stable" name="mentalhealth" value="Stable">
+      <label for="Stable">Stable</label><br>
+      <input type="radio" id="Unstable" name="mentalhealth" value="Unstable">
+      <label for="Unstable">Unstable</label><br>
+      <input type="radio" id="Sometimes Fluctuations" name="mentalhealth" value="Sometimes Fluctuations">
+      <label for="Sometimes Fluctuations">Sometimes Fluctuations</label><br>
+
+
+      <input type="submit" name="" value="submit">
+    </form>
+
+  </body>
+</html>
