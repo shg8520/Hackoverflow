@@ -1,0 +1,127 @@
+Gender,Age,How-active-is-your-work?,How-is-your-fitness-level,Working-Hour-Per-Day,Do-you-exercise-daily?,How-many-hours-in-a-day-you-do-any-physical-activities?,Do-you-follow-any-diet-plans?,How-many-hours-a-day-do-you-sleep?,How-often-do-you-spend-with-fam-and-friends?,How-many-hours-do-you-spend-for-entertainment?,Does-using-social-media-affect-your-mental-health,How-often-are-you-stressed?,How-much-your-mental-health-has-been-affected-in-pandemic?,Target
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,5-8,No,None,No,4-6,Moderate,2-4,Yes,Mostly,Sometimes Fluctuations,1
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,2-4,No,4-6,Moderate,2-4,Yes,Mostly,Unstable,5
+Male,36-50,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,2-4,Yes,6-8,More,5-8,Maybe,Sometimes,Stable,2
+Female,21-35,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,5-8,Yes,5-6,Yes,8-above,Moderate,2-4,No,Never,Stable,9
+Male,15-20,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,2-4,Yes,5-6,No,4-6,Less,8-above,Yes,Mostly,Unstable,4
+Female,36-50,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,9-Above,No,None,Maybe,6-8,More,5-8,No,Mostly,Sometimes Fluctuations,8
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,5-8,No,None,Yes,6-8,More,5-8,Yes,Mostly,Unstable,1
+Male,50-Above,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,No,5-6,No,4-6,Moderate,8-above,Maybe,Sometimes,Sometimes Fluctuations,2
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,2-4,No,2-4,No,4-6,Moderate,2-4,Yes,Sometimes,Stable,2
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,5-8,No,2-4,No,1-3,Moderate,2-4,No,Sometimes,Sometimes Fluctuations,2
+Female,15-20,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,2-4,No,2-4,Yes,1-3,Less,2-4,Yes,Sometimes,Sometimes Fluctuations,2
+Other,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,2-4,No,1-3,More,2-4,Maybe,Never,Stable,6
+Male,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,9-Above,No,None,Yes,4-6,Moderate,2-4,No,Mostly,Sometimes Fluctuations,5
+Male,36-50,"Moderately Active (Eg: Tour Guide,Waiter)",Average Fit,5-8,Yes,5-6,Yes,6-8,Less,2-4,Yes,Never,Stable,9
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,None,Maybe,6-8,Less,5-8,No,Mostly,Unstable,4
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,2-4,Yes,2-4,No,6-8,Moderate,2-4,No,Sometimes,Unstable,5
+Female,21-35,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,5-8,Yes,5-6,No,6-8,More,2-4,Maybe,Sometimes,Unstable,8
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,5-6,Yes,6-8,Moderate,2-4,No,Never,Sometimes Fluctuations,6
+Male,36-50,"Moderately Active (Eg: Tour Guide,Waiter)",Average Fit,5-8,No,5-6,No,6-8,Moderate,8-above,Yes,Mostly,Sometimes Fluctuations,4
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,9-Above,No,None,No,6-8,Less,2-4,Yes,Sometimes,Unstable,2
+Male,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,Yes,5-6,No,6-8,Moderate,8-above,No,Never,Stable,6
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,Yes,2-4,No,6-8,More,2-4,No,Never,Stable,6
+Female,36-50,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,5-8,Yes,5-6,Yes,6-8,Moderate,5-8,Maybe,Sometimes,Sometimes Fluctuations,8
+Female,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,None,No,4-6,Moderate,2-4,No,Mostly,Sometimes Fluctuations,4
+Female,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,Yes,5-6,No,6-8,Moderate,5-8,Maybe,Never,Sometimes Fluctuations,6
+Female,15-20,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,No,5-6,No,6-8,Moderate,2-4,No,Sometimes,Stable,3
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,Yes,2-4,No,6-8,Moderate,2-4,No,Sometimes,Stable,6
+Male,36-50,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,No,None,No,6-8,Moderate,5-8,Maybe,Mostly,Unstable,4
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,None,No,4-6,Less,2-4,No,Mostly,Sometimes Fluctuations,2
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,9-Above,No,None,No,6-8,Less,2-4,No,Sometimes,Sometimes Fluctuations,2
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,5-6,Maybe,6-8,Moderate,5-8,Yes,Never,Stable,3
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,No,None,No,4-6,Less,2-4,Yes,Mostly,Unstable,1
+Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,2-4,No,6-8,Moderate,2-4,Maybe,Sometimes,Sometimes Fluctuations,5
+Other,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",High Fit,2-4,Yes,2-4,Maybe,6-8,More,2-4,No,Sometimes,Stable,9
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,Yes,2-4,No,6-8,Moderate,2-4,No,Sometimes,Unstable,5
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,None,No,6-8,Less,2-4,No,Mostly,Sometimes Fluctuations,2
+Male,21-35,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,5-8,Yes,5-6,Yes,6-8,More,2-4,No,Never,Stable,9
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,No,None,Maybe,6-8,Moderate,2-4,Maybe,Sometimes,Sometimes Fluctuations,2
+Other,50-Above,"Moderately Active (Eg: Tour Guide,Waiter)",Low Fit,5-8,No,5-6,Yes,4-6,Moderate,5-8,No,Mostly,Unstable,1
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,5-8,No,None,No,6-8,Moderate,2-4,Yes,Sometimes,Sometimes Fluctuations,2
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,None,No,6-8,Moderate,2-4,No,Sometimes,Stable,3
+Female,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,2-4,Yes,2-4,No,6-8,More,2-4,Maybe,Mostly,Sometimes Fluctuations,5
+Female,21-35,"Moderately Active (Eg: Tour Guide,Waiter)",Low Fit,9-Above,Yes,None,Yes,6-8,Moderate,2-4,No,Sometimes,Stable,6
+Other,36-50,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,5-8,Yes,2-4,Maybe,6-8,Moderate,5-8,Yes,Sometimes,Unstable,4
+Other,50-Above,"Moderately Active (Eg: Tour Guide,Waiter)",Average Fit,2-4,Yes,5-6,Yes,6-8,Less,5-8,Yes,Mostly,Unstable,7
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,2-4,No,5-6,Maybe,4-6,Moderate,5-8,No,Sometimes,Sometimes Fluctuations,5
+Other,50-Above,"Very Active (Eg: Gym Instructor, Construction Worker)",Average Fit,5-8,Yes,2-4,No,4-6,Moderate,2-4,Yes,Sometimes,Stable,8
+Male,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,5-8,No,2-4,No,6-8,More,2-4,Yes,Never,Unstable,3
+Male,21-35,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,5-8,Yes,5-6,Yes,6-8,Moderate,5-8,Maybe,Sometimes,Sometimes Fluctuations,8
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,9-Above,No,None,No,6-8,Less,2-4,No,Sometimes,Stable,3
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,5-8,Yes,None,No,4-6,More,2-4,No,Sometimes,Sometimes Fluctuations,5
+Female,36-50,"Moderately Active (Eg: Tour Guide,Waiter)",Average Fit,5-8,No,5-6,Maybe,6-8,Less,5-8,Yes,Sometimes,Unstable,4
+Male,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,2-4,No,2-4,No,8-above,More,2-4,No,Sometimes,Sometimes Fluctuations,5
+Other,21-35,"Moderately Active (Eg: Tour Guide,Waiter)",Average Fit,5-8,No,2-4,Maybe,4-6,Moderate,2-4,Maybe,Never,Sometimes Fluctuations,5
+Male,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,Yes,None,No,6-8,More,5-8,No,Sometimes,Sometimes Fluctuations,5
+Male,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,5-8,No,None,Maybe,6-8,More,2-4,Yes,Sometimes,Unstable,1
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,None,No,8-above,Moderate,2-4,No,Sometimes,Sometimes Fluctuations,5
+Other,36-50,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,2-4,No,None,Maybe,1-3,More,5-8,No,Sometimes,Unstable,2
+Female,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",High Fit,9-Above,Yes,None,No,6-8,Moderate,2-4,Maybe,Sometimes,Sometimes Fluctuations,8
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,Yes,None,Maybe,6-8,Moderate,2-4,No,Sometimes,Stable,6
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,2-4,No,None,No,8-above,More,8-above,No,Sometimes,Sometimes Fluctuations,5
+Male,15-20,"Moderately Active (Eg: Tour Guide,Waiter)",Average Fit,2-4,Yes,2-4,Maybe,4-6,Moderate,2-4,No,Mostly,Unstable,4
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,9-Above,No,None,No,4-6,Less,2-4,No,Sometimes,Stable,3
+Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,5-8,No,2-4,No,4-6,Moderate,5-8,No,Sometimes,Unstable,2
+Female,21-35,"Moderately Active (Eg: Tour Guide,Waiter)",Low Fit,9-Above,Yes,2-4,No,6-8,Less,2-4,Yes,Mostly,Unstable,1
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,No,None,No,4-6,Moderate,2-4,Yes,Mostly,Sometimes Fluctuations,5
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,2-4,No,None,No,6-8,Moderate,2-4,Maybe,Mostly,Unstable,1
+Female,15-20,"Moderately Active (Eg: Tour Guide,Waiter)",Average Fit,2-4,Yes,2-4,Maybe,4-6,Moderate,2-4,Maybe,Sometimes,Sometimes Fluctuations,5
+Male,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,None,No,8-above,Moderate,2-4,Yes,Sometimes,Unstable,1
+Male,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,9-Above,No,None,No,1-3,Moderate,2-4,Maybe,Sometimes,Sometimes Fluctuations,2
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,2-4,No,6-8,Less,2-4,Maybe,Sometimes,Sometimes Fluctuations,5
+Female,21-35,"Very Active (Eg: Gym Instructor, Construction Worker)",Average Fit,5-8,Yes,None,Maybe,6-8,More,2-4,No,Sometimes,Stable,9
+Male,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",High Fit,2-4,Yes,2-4,Yes,4-6,Moderate,2-4,No,Sometimes,Sometimes Fluctuations,8
+Male,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,2-4,Yes,4-6,Moderate,2-4,No,Mostly,Sometimes Fluctuations,5
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,5-8,No,None,No,8-above,Less,2-4,Yes,Mostly,Unstable,1
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,2-4,Yes,None,Yes,8-above,Moderate,2-4,No,Never,Stable,6
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,2-4,No,2-4,No,4-6,Moderate,5-8,Maybe,Sometimes,Sometimes Fluctuations,5
+Male,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,None,No,6-8,Moderate,2-4,No,Sometimes,Stable,6
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,2-4,Yes,6-8,Moderate,2-4,No,Sometimes,Sometimes Fluctuations,5
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,2-4,Maybe,6-8,More,5-8,Maybe,Sometimes,Sometimes Fluctuations,5
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,9-Above,No,None,No,6-8,Moderate,2-4,Maybe,Sometimes,Sometimes Fluctuations,2
+Female,15-20,"Little / No activity (Eg: Desk Job, Bank Job)",High Fit,2-4,Yes,None,No,4-6,Moderate,2-4,Yes,Mostly,Unstable,7
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,2-4,No,None,No,6-8,More,5-8,No,Sometimes,Stable,6
+Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,9-Above,No,None,Maybe,4-6,Less,2-4,Maybe,Sometimes,Stable,2
+Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,2-4,Yes,2-4,No,6-8,Moderate,2-4,Yes,Sometimes,Unstable,4
+Male,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,No,2-4,No,8-above,Moderate,2-4,No,Sometimes,Sometimes Fluctuations,2
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,2-4,Yes,None,No,6-8,Moderate,2-4,Yes,Mostly,Unstable,4
+Male,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,9-Above,No,None,No,1-3,Moderate,8-above,Maybe,Never,Stable,3
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,9-Above,No,None,No,4-6,Less,2-4,Maybe,Sometimes,Sometimes Fluctuations,2
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,Yes,None,No,6-8,Less,2-4,Yes,Sometimes,Sometimes Fluctuations,2
+Male,36-50,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,2-4,No,6-8,Moderate,2-4,Yes,Mostly,Unstable,1
+Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,2-4,No,6-8,Less,2-4,No,Never,Stable,6
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,2-4,No,2-4,Maybe,6-8,Less,2-4,Maybe,Sometimes,Sometimes Fluctuations,2
+Female,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,Yes,None,Maybe,6-8,More,2-4,No,Sometimes,Stable,6
+Female,21-35,"Very Active (Eg: Gym Instructor, Construction Worker)",High Fit,9-Above,Yes,5-6,No,6-8,Less,2-4,No,Sometimes,Unstable,8
+Male,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,5-8,No,2-4,No,4-6,More,5-8,No,Never,Stable,3
+Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,2-4,Yes,4-6,Moderate,2-4,No,Sometimes,Stable,6
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,Yes,2-4,No,6-8,More,2-4,Yes,Sometimes,Stable,5
+Female,36-50,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,Yes,2-4,Yes,6-8,Moderate,2-4,No,Mostly,Sometimes Fluctuations,5
+Female,15-20,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,2-4,No,None,No,4-6,More,8-above,No,Mostly,Sometimes Fluctuations,2
+Male,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,5-6,No,1-3,Moderate,2-4,Maybe,Sometimes,Unstable,5
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,None,No,6-8,Less,2-4,Yes,Mostly,Unstable,1
+Female,15-20,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,2-4,Yes,5-6,Yes,1-3,Less,5-8,Yes,Never,Stable,6
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,5-8,No,None,No,6-8,Less,2-4,Yes,Mostly,Sometimes Fluctuations,2
+Female,50-Above,"Moderately Active (Eg: Tour Guide,Waiter)",High Fit,9-Above,Yes,None,No,4-6,Moderate,2-4,No,Sometimes,Stable,9
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,5-8,Yes,2-4,No,4-6,Moderate,2-4,No,Sometimes,Sometimes Fluctuations,5
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,2-4,Yes,2-4,No,6-8,Moderate,5-8,No,Sometimes,Sometimes Fluctuations,5
+Male,21-35,"Moderately Active (Eg: Tour Guide,Waiter)",Average Fit,5-8,No,None,No,6-8,Moderate,2-4,No,Sometimes,Sometimes Fluctuations,5
+Male,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,Yes,2-4,Yes,4-6,Moderate,2-4,Maybe,Sometimes,Sometimes Fluctuations,5
+Female,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,2-4,No,6-8,More,2-4,Yes,Mostly,Unstable,4
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,None,Maybe,4-6,Less,2-4,No,Mostly,Unstable,4
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,None,No,6-8,Moderate,5-8,Yes,Sometimes,Sometimes Fluctuations,2
+Female,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,None,Maybe,6-8,Moderate,2-4,Maybe,Sometimes,Sometimes Fluctuations,2
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Low Fit,5-8,No,None,Maybe,6-8,Moderate,2-4,Maybe,Mostly,Unstable,1
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,2-4,Yes,None,No,6-8,More,2-4,Maybe,Mostly,Unstable,4
+Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,9-Above,No,None,Maybe,6-8,Less,2-4,Maybe,Mostly,Sometimes Fluctuations,2
+Female,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,5-8,No,None,Maybe,4-6,More,2-4,No,Sometimes,Stable,3
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,None,Maybe,6-8,More,2-4,Maybe,Mostly,Unstable,1
+Male,21-35,"Little / No activity (Eg: Desk Job, Bank Job)",Average Fit,9-Above,No,2-4,No,6-8,Moderate,2-4,Yes,Sometimes,Sometimes Fluctuations,2
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,None,No,6-8,Moderate,2-4,No,Sometimes,Sometimes Fluctuations,2
+Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,2-4,No,4-6,Moderate,2-4,No,Sometimes,Stable,3
+Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,2-4,No,6-8,Moderate,2-4,Yes,Sometimes,Sometimes Fluctuations,5
+Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,2-4,No,6-8,Moderate,2-4,Yes,Sometimes,Sometimes Fluctuations,8
+Male,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,Yes,2-4,No,6-8,Moderate,2-4,Yes,Sometimes,Sometimes Fluctuations,5
+Female,21-35,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Low Fit,5-8,No,2-4,Yes,6-8,Moderate,2-4,Maybe,Sometimes,Stable,3
+Female,15-20,"Lightly Active (Eg: Student, Sales Associate, Teacher)",Average Fit,5-8,No,2-4,No,6-8,More,2-4,No,Sometimes,Stable,6

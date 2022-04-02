@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Health Guidance</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  {% load static %}
+  <link href="{% static 'img/favicon.png' %}" rel="icon">
+  <link href="{% static 'img/apple-touch-icon.png' %}" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+  <link href="{% static 'vendor/bootstrap-icons/bootstrap-icons.css' %}" rel="stylesheet">
+  <link href="{% static 'vendor/boxicons/css/boxicons.min.css' %}" rel="stylesheet">
+  <link href="{% static 'vendor/glightbox/css/glightbox.min.css' %}" rel="stylesheet">
+  <link href="{% static 'vendor/remixicon/remixicon.css' %}" rel="stylesheet">
+  <link href="{% static 'vendor/swiper/swiper-bundle.min.css' %}" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="{% static 'css/style.css' %}" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Tempo - v4.7.0
+  * Template URL: https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top ">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <h1 class="logo"><a href="index.html">Health Guidance</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo"><img src="img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#team">Questionare</a></li>
+          <li><a class="nav-link scrollto" href="#services">Solutions</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container">
+      <h3>Welcome to <strong>Health Guidance</strong></h3>
+      <h1>Take A Health Test</h1>
+      <h2>Because of COVID-19 we all are always at home, so we have bought the health talk to home too.</h2>
+      <a href="#about" class="btn-get-started scrollto">Get Started</a>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <h3>Learn More <span>About Us</span></h3>
+          <p>We  mainly focus on people's health during this tough and new situation that is the COVID-19. The pandemic has made people feel alone on their own. Even though the times are tough we must always make time to focus on our health both physical and mental.</p>
+        </div>
+
+        <div class="row content">
+          <div class="col-lg-6">
+            <p>
+              Our main objectives while creating this applications are:
+            </p>
+            <ul>
+              <li><i class="ri-check-double-line"></i> Being there for every human being</li>
+              <li><i class="ri-check-double-line"></i> Help individual in understanding their health priorities</li>
+              <li><i class="ri-check-double-line"></i>Enhance their mental and physical health</li>
+            </ul>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0">
+            <p>
+              Health Guidance is committed to connecting people concerned about their health with Questionare. Our free questionare allows you to take a proactive approach to your wellness. The test is designed to provide anonymous and immediate feedback.
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+
+
+
+
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team">
+      <div class="section-title">
+        <h2>Questionare</h2>
+      </div>
+
+      <div class="container mt-5">
+          <div class="row d-flex justify-content-center align-items-center">
+              <div class="col-md-8">
+                <form id="regForm" action="{% url 'result' %}">
+                    <h1 id="register">Health Related Questionare</h1>
+                    <div class="all-steps" id="all-steps"> <span class="step"><i class="fa fa-user"></i></span> <span class="step"><i class="fa fa-map-marker"></i></span> <span class="step"><i class="fa fa-shopping-bag"></i></span> <span class="step"><i class="fa fa-car"></i></span> <span class="step"><i class="fa fa-spotify"></i></span> <span class="step"><i class="fa fa-mobile-phone"></i></span> </div>
+                    <div class="tab">
+                        <br><h4><b>Gender</b></h4>
+                        <input type="radio" id="Male" name="Gender" value="1">
+                        <label for="Male">Male</label><br>
+                        <input type="radio" id="Female" name="Gender" value="0">
+                        <label for="Female">Female</label><br>
+                        <input type="radio" id="Other" name="Gender" value="2">
+                        <label for="Other">Other</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>Age</b></h4>
+                        <input type="radio" id="15-20" name="Age" value="0">
+                        <label for="15-20">15-20</label><br>
+                        <input type="radio" id="21-35" name="Age" value="1">
+                        <label for="21-35">21-35</label><br>
+                        <input type="radio" id="36-50" name="Age" value="2">
+                        <label for="36-50">36-50</label><br>
+                        <input type="radio" id="50-Above" name="Age" value="3">
+                        <label for="50-Above">50-Above</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>How Active is you work?</b></h4>
+                        <input type="radio" id="Little / No activity (Eg: Desk Job, Bank Job)" name="Activity" value="1">
+                        <label for="Little / No activity (Eg: Desk Job, Bank Job)">Little / No activity (Eg: Desk Job, Bank Job)</label><br>
+                        <input type="radio" id="Lightly Active (Eg: Student, Sales Associate, Teacher)" name="Activity" value="0">
+                        <label for="Lightly Active (Eg: Student, Sales Associate, Teacher)">Lightly Active (Eg: Student, Sales Associate, Teacher)</label><br>
+                        <input type="radio" id="Moderately Active (Eg: Tour Guide,Waiter)" name="Activity" value="2">
+                        <label for="Moderately Active (Eg: Tour Guide,Waiter)">Moderately Active (Eg: Tour Guide,Waiter)</label><br>
+                        <input type="radio" id="Very Active (Eg: Gym Instructor, Construction Worker)" name="Activity" value="3">
+                        <label for="Very Active (Eg: Gym Instructor, Construction Worker)">Very Active (Eg: Gym Instructor, Construction Worker)</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>How is your fitness level?</b></h4>
+                        <input type="radio" id="Low Fit" name="Fitness_level" value="2">
+                        <label for="Low Fit">Low Fit</label><br>
+                        <input type="radio" id="Average Fit" name="Fitness_level" value="0">
+                        <label for="Average Fit">Average Fit</label><br>
+                        <input type="radio" id="High Fit" name="Fitness_level" value="1">
+                        <label for="High Fit">High Fit</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>Working Hour Per Day?</b></h4>
+                        <input type="radio" id="2-4" name="whpd" value="0">
+                        <label for="2-4">2-4</label><br>
+                        <input type="radio" id="5-8" name="whpd" value="1">
+                        <label for="5-8">5-8</label><br>
+                        <input type="radio" id="9-Above" name="whpd" value="2">
+                        <label for="9-Above">9-Above</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>Do you excercise daily?</b></h4>
+                        <input type="radio" id="Yes" name="exdaily" value="1">
+                        <label for="Yes">Yes</label><br>
+                        <input type="radio" id="No" name="exdaily" value="0">
+                        <label for="No">No</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>How many hours in a day you do any physical activities ?</b></h4>
+                        <input type="radio" id="2-4" name="papd" value="0">
+                        <label for="2-4">2-4</label><br>
+                        <input type="radio" id="5-6" name="papd" value="1">
+                        <label for="5-6">5-6</label><br>
+                        <input type="radio" id="None" name="papd" value="2">
+                        <label for="None">None</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>Do you follow any diet plans?</b></h4>
+                        <input type="radio" id="Yes" name="diet_plans" value="2">
+                        <label for="Yes">Yes</label><br>
+                        <input type="radio" id="No" name="diet_plans" value="1">
+                        <label for="No">No</label><br>
+                        <input type="radio" id="Maybe" name="diet_plans" value="0">
+                        <label for="Maybe">Maybe</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>How many hours a day do you sleep?</b></h4>
+                        <input type="radio" id="1-3" name="sleep" value="0">
+                        <label for="1-3">1-3</label><br>
+                        <input type="radio" id="4-6" name="sleep" value="1">
+                        <label for="4-6">4-6</label><br>
+                        <input type="radio" id="6-8" name="sleep" value="2">
+                        <label for="6-8">6-8</label><br>
+                        <input type="radio" id="8-above" name="sleep" value="3">
+                        <label for="8-above">8-above</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>How often do you spend time with your fam and friends?</b></h4>
+                        <input type="radio" id="Less" name="famfr" value="0">
+                        <label for="Less">Less</label><br>
+                        <input type="radio" id="Moderate" name="famfr" value="1">
+                        <label for="Moderate">Moderate</label><br>
+                        <input type="radio" id="More" name="famfr" value="2">
+                        <label for="More">More</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>How many hours do you spend for entertainment?</b></h4>
+                        <input type="radio" id="2-4" name="ent" value="0">
+                        <label for="2-4">2-4</label><br>
+                        <input type="radio" id="5-8" name="ent" value="1">
+                        <label for="5-8">5-8</label><br>
+                        <input type="radio" id="8-above" name="ent" value="2">
+                        <label for="8-above">8-above</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>Does using social media affect your mental health?</b></h4>
+                        <input type="radio" id="Yes" name="socmed" value="2">
+                        <label for="Yes">Yes</label><br>
+                        <input type="radio" id="No" name="socmed" value="1">
+                        <label for="No">No</label><br>
+                        <input type="radio" id="Maybe" name="socmed" value="0">
+                        <label for="Maybe">Maybe</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>How often are you stressed?</b></h4>
+                        <input type="radio" id="Sometimes" name="stress" value="2">
+                        <label for="Sometimes">Sometimes</label><br>
+                        <input type="radio" id="Mostly" name="stress" value="0">
+                        <label for="Mostly">Mostly</label><br>
+                        <input type="radio" id="Never" name="stress" value="1">
+                        <label for="Never">Never</label><br>
+                    </div>
+                    <div class="tab">
+                        <br><h4><b>How much your mental health has been affected in pandemic?</b></h4>
+                        <input type="radio" id="Stable" name="mentalhealth" value="1">
+                        <label for="Stable">Stable</label><br>
+                        <input type="radio" id="Unstable" name="mentalhealth" value="2">
+                        <label for="Unstable">Unstable</label><br>
+                        <input type="radio" id="Sometimes Fluctuations" name="mentalhealth" value="0">
+                        <label for="Sometimes Fluctuations">Sometimes Fluctuations</label><br>
+                    </div>
+
+                    <div class="tab"><br>
+                      <input type="Submit" name="" value="Submit">
+                    </div>
+
+
+                </form>
+              </div>
+          </div>
+      </div>
+
+      <!-- ======= Services Section ======= -->
+      <section id="services" class="services">
+        <div class="container">
+
+          <div class="section-title">
+            <h2>Solutions</h2>
+            <h3>All available suggestions for all kinds of Lifestyle</h3
+          </div>
+
+          <div class="row">
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="icon-box">
+                <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                <h4 class="title"><a href="">Highly Active</a></h4>
+                <p class="description">Workout including HIIT or Cardio, yoga poses and a balanced diet. </p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="icon-box">
+                <div class="icon"><i class="bx bx-file"></i></div>
+                <h4 class="title"><a href="">Moderately Active</a></h4>
+                <p class="description">Workout including Bokwa, running, yoga poses and a balanced diet.</p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="icon-box">
+                <div class="icon"><i class="bx bx-tachometer"></i></div>
+                <h4 class="title"><a href="">Less Active</a></h4>
+                <p class="description">Workout including Zumba,yoga dance, yoga poses and a balanced diet.</p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="icon-box">
+                <div class="icon"><i class="bx bx-world"></i></div>
+                <h4 class="title"><a href="">Mental Health</a></h4>
+                <p class="description">A good sleep schedule, different types of meditations, motivational podcasts, along with physical activities.</p>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </section><!-- End Services Section -->
+
+
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+          <h3>Contact <span>Us</span></h3>
+          <p>We are always here to further clarify or to deal with any of your queries with both the working progress or the result discussions.</p>
+          <p></p>
+        </div>
+
+
+        <div class="row mt-5">
+
+
+          <div class="col-lg-4">
+            <div class="info">
+              <div class="address">
+                <i class="bi bi-geo-alt"></i>
+                <h4>Location:</h4>
+                <p>Plot:5,Annexe:3,ABC Street<br>
+                Chennai-602005 <br><br></p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <p>info@example.com</p>
+              </div>
+
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Call:</h4>
+                <p>9445967249</p>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="col-lg-8 mt-5 mt-lg-0">
+
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h3>Health Guidance</h3>
+            <p>
+              Plot:5,Annexe:3,ABC Street<br>
+              Chennai-602005 <br><br>
+              <strong>Phone:</strong> 9445967249<br>
+              <strong>Email:</strong> info@example.com<br>
+            </p>
+          </div>
+            <div class="col-lg-2 col-md-6 footer-newsletter"></div>
+              <div class="col-lg-3 col-md-6 footer-newsletter"></div>
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>Useful Links</h4>
+
+              <i class="bx bx-chevron-right"></i> <a href="#">Home</a><br>
+              <i class="bx bx-chevron-right"></i> <a href="#">About us</a><br>
+              <i class="bx bx-chevron-right"></i> <a href="#">Services</a><br>
+              <i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a><br>
+              <i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a><br>
+
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container d-md-flex py-4">
+
+      <div class="me-md-auto text-center text-md-start">
+        <div class="copyright">
+          &copy; Copyright <strong><span>HealthGuidance</span></strong>. All Rights Reserved
+        </div>
+
+      </div>
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="{% static 'vendor/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+  <script src="{% static 'vendor/glightbox/js/glightbox.min.js' %}"></script>
+  <script src="{% static 'vendor/isotope-layout/isotope.pkgd.min.js' %}"></script>
+  <script src="{% static 'vendor/swiper/swiper-bundle.min.js' %}"></script>
+  <script src="{% static 'vendor/php-email-form/validate.js' %}"></script>
+
+  <!-- Template Main JS File -->
+  <script src="{% static 'js/main.js' %}"></script>
+
+</body>
+
+</html>
